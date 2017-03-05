@@ -1,5 +1,7 @@
 # BA_Thesis_IoT_Miun
-Source code of programs in the thesis
+
+You can get my thesis [HERE](http://miun.diva-portal.org/smash/record.jsf?dswid=1822&pid=diva2%3A943076&c=11&searchType=SIMPLE&language=en&query=SensibleThings&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&onlyFullText=false&sf=all).
+Source code of programs in the thesis are followed:
 
 ## Code of own developed programs
 
